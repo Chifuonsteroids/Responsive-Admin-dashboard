@@ -1,2 +1,2 @@
 # Admin Dashboard
-Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+This website is the result of slicing from Figma to a responsive website using HTML, CSS and JavaScript
